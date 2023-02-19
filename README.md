@@ -1,2 +1,5 @@
 # blog-website
-B
+Welcome!
+
+This repo is under-construction.
+I just trying to hosting a web.
